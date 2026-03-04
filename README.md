@@ -136,7 +136,7 @@ If you're interested in **Data Analytics, Python, SQL, Excel, or Power BI**, let
   </a>
 </p>
 
-📧 Email: **riyankateeri@gmail.com**
-📞 +91-8111965697
+- 📧 Email: **riyankateeri@gmail.com**
+- 📞 +91-8111965697
 
 ⭐ *Turning Data into Insights and Building Data-Driven Solutions*
